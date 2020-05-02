@@ -17,4 +17,4 @@ https://github.com/yeataro/TD-MATcap
 
 yeataro@gmail.com
 
-License : [MIT license](LICENCE)
+License : [MIT license](LICENSE)
